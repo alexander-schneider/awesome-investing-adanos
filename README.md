@@ -41,6 +41,7 @@ First, before you start to invest why not learn a thing or two?
 
 | Link          | Description   |
 |:--------------|:--------------|
+|[Adanos Market Sentiment](https://api.adanos.org/)|API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket|
 |[Beanvest](https://beanvest.com/)|❤️ Quality Investing research. This is my website.|
 |[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks (Pro tip: private browsing)|
 |[Fiscal](https://fiscal.ai/)|❤️ Financial Data and screener|
@@ -94,4 +95,3 @@ First, before you start to invest why not learn a thing or two?
 
 
 ❤️ = personal favorite
-
